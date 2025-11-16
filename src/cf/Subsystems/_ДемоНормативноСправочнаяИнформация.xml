@@ -34,6 +34,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog._ДемоНоменклатура</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog._ДемоМестаХранения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog._ДемоОрганизации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog._ТоварныеКатегории</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>

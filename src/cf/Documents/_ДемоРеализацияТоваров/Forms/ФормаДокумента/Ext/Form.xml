@@ -183,6 +183,9 @@
 									<OpenButton>false</OpenButton>
 									<ContextMenu name="ДоговорКонтекстноеМеню" id="10"/>
 									<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="291"/>
+									<Events>
+										<Event name="OnChange">ДоговорПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="МестоХранения" id="11">
 									<DataPath>Объект.МестоХранения</DataPath>
